@@ -8,7 +8,7 @@ My core expertise is in **Laravel/PHP, React, TypeScript, and relational databas
 
 I'm also exploring **Rust, AI engineering, and human-supervised AI automation**, with a focus on reliability, persistent memory, and useful real-world applications.
 
-🌐 **Portfolio:** [johnmark-tech-portfolio.vercel.app](https://johnmark-tech-portfolio.vercel.app/)  
+🌐 **Portfolio:** [johnmark.tech](https://www.johnmark.tech/)  
 💻 **GitHub:** [Enriquez-Johnmark](https://github.com/Enriquez-Johnmark)
 
 ---
@@ -80,4 +80,4 @@ Professional experience building and maintaining healthcare applications, busine
 
 I'm interested in opportunities involving full-stack development, backend engineering, business software, and practical AI engineering.
 
-🌐 Visit my [portfolio](https://johnmark-tech-portfolio.vercel.app/).
+🌐 Visit my [portfolio](https://www.johnmark.tech/).
